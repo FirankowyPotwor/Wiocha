@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: ce491eb445131fd4ca3208a9893a3791
+timeCreated: 1495877616
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GameAssets01_0
+    21300002: GameAssets01_1
+    21300004: GameAssets01_2
+    21300006: GameAssets01_3
+    21300008: GameAssets01_4
+    21300010: GameAssets01_5
+    21300012: GameAssets01_6
+    21300014: GameAssets01_7
+    21300016: GameAssets01_8
+    21300018: GameAssets01_9
+    21300020: GameAssets01_10
+    21300022: GameAssets01_11
+    21300024: GameAssets01_12
+    21300026: GameAssets01_13
+    21300028: GameAssets01_14
+    21300030: GameAssets01_15
+    21300032: GameAssets01_16
+    21300034: GameAssets01_17
+    21300036: GameAssets01_18
+    21300038: GameAssets01_19
+    21300040: GameAssets01_20
+    21300042: GameAssets01_21
+    21300044: GameAssets01_22
+    21300046: GameAssets01_23
+    21300048: GameAssets01_24
+    21300050: GameAssets01_25
+    21300052: GameAssets01_26
+    21300054: GameAssets01_27
+    21300056: GameAssets01_28
+    21300058: GameAssets01_29
+    21300060: GameAssets01_30
+    21300062: GameAssets01_31
+    21300064: GameAssets01_32
+    21300066: GameAssets01_33
+    21300068: GameAssets01_34
+    21300070: GameAssets01_35
+    21300072: GameAssets01_36
+    21300074: GameAssets01_37
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameAssets01_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 900
+        width: 132
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 898
+        width: 132
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 908
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 912
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 840
+        width: 154
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 808
+        width: 235
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_6
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 842
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_7
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 883
+        width: 167
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_8
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 925
+        width: 109
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 805
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 817
+        width: 130
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 816
+        width: 133
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_12
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 580
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 420
+        width: 232
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_14
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 566
+        width: 138
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_15
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 775
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 744
+        width: 240
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 701
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 693
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 587
+        width: 187
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_20
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 623
+        width: 173
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 579
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 592
+        width: 108
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 607
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_24
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 24
+        width: 519
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 349
+        width: 209
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 322
+        width: 242
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 396
+        width: 246
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_28
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 399
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_29
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 461
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 258
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 215
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 29
+        width: 164
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 24
+        width: 249
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 43
+        width: 185
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_35
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 18
+        width: 252
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 117
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GameAssets01_37
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 12
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
